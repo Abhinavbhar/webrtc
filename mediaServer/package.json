@@ -1,0 +1,21 @@
+{
+  "name": "mediaserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mediasoup": "^3.14.9",
+    "mediasoup-client": "^3.7.14",
+    "node-webrtc": "^0.0.0",
+    "simple-peer": "^9.11.1",
+    "ws": "^8.18.0"
+  }
+}
